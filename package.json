@@ -1,0 +1,24 @@
+{
+  "name": "kiem_tra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruongVinhKiet/kiem_tra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TruongVinhKiet/kiem_tra/issues"
+  },
+  "homepage": "https://github.com/TruongVinhKiet/kiem_tra#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
